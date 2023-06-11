@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685875336 source:c:\users\1\desktop\github\nebesnyi-ivan-kb222\lab08\prj\modulesnebesniy\main.cpp
+	<iostream>
+	<windows.h>
+
